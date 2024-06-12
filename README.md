@@ -17,4 +17,4 @@ Warna pengisian (fill) untuk persegi panjang ditentukan oleh nilai frameCount ya
 - Persegi panjang dengan ukuran 80x20 piksel digambar di posisi (0,0) dalam sistem koordinat yang telah diubah.
 - Mengembalikan sistem koordinat ke keadaan semula setelah menggambar persegi panjang dengan menggunakan popMatrix().
 
-# Kesimpulannya, program ini membuat animasi persegi panjang berwarna yang berputar di tengah kanvas, dengan warna dan sudut rotasi yang berubah setiap 10 frame.
+( Kesimpulannya, program ini membuat animasi persegi panjang berwarna yang berputar di tengah kanvas, dengan warna dan sudut rotasi yang berubah setiap 10 frame. )
